@@ -1,0 +1,3 @@
+[submodule "external/iCarousel"]
+	path = external/iCarousel
+	url = git@github.com:drasticactions/iCarousel.git
